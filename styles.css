@@ -1,3 +1,23 @@
 /*  your css code here. If applicable */
+/* styles.css */
 
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #D3D3D3; /* Background color */
+    padding: 10px;            /* Padding */
+}
+
+.navbar ul {
+    list-style: none; /* No bullets */
+    margin: 0;       /* No margin */
+    padding: 0;      /* No padding */
+}
+
+.navbar li {
+    display: inline;      /* Display items horizontally */
+    margin-right: 1rem;  /* Margin between items */
+}
 
